@@ -1,0 +1,39 @@
+body{
+	background-color: #27AE60;
+
+}
+
+h1{
+	font-family: philosopher;
+	font-size:48px;
+	text-align: center;
+	color:#EEE7E7;
+	line-height: normal;
+	font-weight: normal;
+	font-style: normal;
+	margin-bottom: 0px;
+}
+.head-text{
+	
+	padding-top: 30px;
+	font-family: philosopher;
+	text-align: center;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 40px;
+	color:#EEE7E7;
+
+}
+
+.deep{
+
+	width: 614px;
+    height: 188px;
+    border-radius: 10px;
+    fill: solid;
+    text-align: center;
+    margin-left: 27%;
+    background-color: #219653;
+
+}
